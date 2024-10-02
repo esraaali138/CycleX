@@ -11,7 +11,7 @@ html {
 }
 
 main {
-  background-image: url("/images/44.png");
+  background-image: url("../images/44.png");
   height: 100vh;
   background-size: cover;
   position: relative;
